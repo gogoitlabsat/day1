@@ -1,4 +1,4 @@
-# gogo_app_day_1
+# GOGO IT LAB App Day 1
 
 A new Flutter project.
 
